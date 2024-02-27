@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3BABAF0A-540F-40D3-9A4D-248CE308AD57"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B14C886E-0B0A-40DB-A1F8-B56CDA5A4009"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyPizzaApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B14C886E-0B0A-40DB-A1F8-B56CDA5A4009 - c24fcfe67a5340d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyPizzaApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MyPizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikhailsuprun/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Develop/MyPizzaApp/MyPizzaApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "B14C886E-0B0A-40DB-A1F8-B56CDA5A4009 - c24fcfe67a5340d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyPizzaApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MyPizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikhailsuprun/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Develop/MyPizzaApp/MyPizzaApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "B14C886E-0B0A-40DB-A1F8-B56CDA5A4009 - c24fcfe67a5340d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyPizzaApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MyPizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikhailsuprun/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Develop/MyPizzaApp/MyPizzaApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C71BDA17-8C60-4497-82BD-C60C026C2FF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyPizzaApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
